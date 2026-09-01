@@ -1,3 +1,4 @@
+<img src="couchdb-view-indexer.svg" alt="couchdb-view-indexer" width="120">
 # Couchdb View Indexer
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CouchDB.svg/290px-CouchDB.svg.png)
